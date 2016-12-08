@@ -24,7 +24,7 @@
         android:id="@+id/spinner_players"
         android:layout_width="wrap_content"
         android:layout_height="48dp"
-        android:layout_toRightOf="@id/select_players_textview"
+        android:layout_below="@id/select_players_textview"
         android:layout_centerInParent="true"
         android:spinnerMode="dropdown"/>
 

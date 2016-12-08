@@ -55,7 +55,7 @@
             android:layout_margin="16dp"
             android:textColor="@android:color/black"
             android:textSize="80sp"
-            tools:text="20"/>
+            android:text="20"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -246,7 +246,7 @@
             android:layout_margin="16dp"
             android:textColor="@android:color/black"
             android:textSize="80sp"
-            tools:text="20"/>
+            android:text="20"/>
 
         <LinearLayout
             android:layout_width="match_parent"
